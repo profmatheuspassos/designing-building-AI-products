@@ -15,3 +15,4 @@
     * A IA sempre vai se encaixar (por enquanto) em apenas um dos aspectos fundamentais da inteligência humana.
     * Todos os modelos de IA utilizam uma solução **probabilística**, não **determinística**.
     * Inteligência Artificial --> Machine Learning --> Deep Learning --> IA Generativa
+    * 
